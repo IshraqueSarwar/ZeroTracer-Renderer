@@ -1,0 +1,3 @@
+/home/kali/Desktop/raytracer/build/CMakeFiles/rt-weekend.dir
+/home/kali/Desktop/raytracer/build/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/raytracer/build/CMakeFiles/rebuild_cache.dir
